@@ -1,0 +1,38 @@
+<svg height="558" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="558" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">4 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ material-components-web@0.9.1 </tspan>
+<tspan x="10" y="90">  ├── @material/animation@0.1.5 </tspan>
+<tspan x="10" y="106">  ├── @material/auto-init@0.1.1 </tspan>
+<tspan x="10" y="122">  ├── @material/base@0.1.2 </tspan>
+<tspan x="10" y="138">  ├── @material/button@0.3.3 </tspan>
+<tspan x="10" y="154">  ├── @material/card@0.1.7 </tspan>
+<tspan x="10" y="170">  ├─┬ @material/checkbox@0.3.1 </tspan>
+<tspan x="10" y="186">  │ └── @material/rtl@0.1.3 </tspan>
+<tspan x="10" y="202">  ├─┬ @material/dialog@0.2.1 </tspan>
+<tspan x="10" y="218">  │ ├── @material/typography@0.1.1 </tspan>
+<tspan x="10" y="234">  │ └─┬ focus-trap@2.3.0 </tspan>
+<tspan x="10" y="250">  │   └── tabbable@1.0.6 </tspan>
+<tspan x="10" y="266">  ├── @material/drawer@0.3.1 </tspan>
+<tspan x="10" y="282">  ├── @material/elevation@0.1.4 </tspan>
+<tspan x="10" y="298">  ├── @material/fab@0.3.5 </tspan>
+<tspan x="10" y="314">  ├── @material/form-field@0.2.3 </tspan>
+<tspan x="10" y="330">  ├── @material/grid-list@0.2.1 </tspan>
+<tspan x="10" y="346">  ├── @material/icon-toggle@0.1.8 </tspan>
+<tspan x="10" y="362">  ├── @material/layout-grid@0.1.1 </tspan>
+<tspan x="10" y="378">  ├── @material/list@0.2.6 </tspan>
+<tspan x="10" y="394">  ├── @material/menu@0.2.3 </tspan>
+<tspan x="10" y="410">  ├── @material/radio@0.2.1 </tspan>
+<tspan x="10" y="426">  ├── @material/ripple@0.5.1 </tspan>
+<tspan x="10" y="442">  ├── @material/select@0.3.3 </tspan>
+<tspan x="10" y="458">  ├── @material/snackbar@0.1.8 </tspan>
+<tspan x="10" y="474">  ├── @material/switch@0.1.4 </tspan>
+<tspan x="10" y="490">  ├── @material/textfield@0.2.6 </tspan>
+<tspan x="10" y="506">  ├── @material/theme@0.1.4 </tspan>
+<tspan x="10" y="522">  ├── @material/toolbar@0.2.2 </tspan>
+<tspan x="10" y="538">  └── @material/typography@0.2.1</tspan>
+</text>
+</svg>
